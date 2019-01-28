@@ -1,0 +1,3 @@
+[submodule "ext/simplesocket"]
+	path = ext/simplesocket
+	url = git@github.com:ahupowerdns/simplesocket.git
